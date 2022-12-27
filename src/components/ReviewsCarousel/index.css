@@ -1,0 +1,23 @@
+/* Write your code here */
+.item {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+
+.arrows-container {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+}
+.user-name {
+  color: white;
+  font-weight: 600;
+}
+.arrow {
+  height: 15px;
+  width: 20px;
+}
